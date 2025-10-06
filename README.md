@@ -4,8 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broken07210&show-icons=true&theme=radiacl)
 ## 最近在学习
--STM32单片机
--C/C++
+- STM32单片机
+- C/C++
 
 ### 我的B站主页
 [Ciallo~](https://space.bilibili.com/431638424?spm_id_from=333.1007.0.0)
